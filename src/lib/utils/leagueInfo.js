@@ -21,7 +21,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "managerID": "466808847713955840",
+      "managerID": "603681611740930048",
       "name": "Robert Sasso",
       "location": "Boca Raton", // (optional)
       "bio": "Commish",
